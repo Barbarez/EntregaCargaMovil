@@ -49,7 +49,7 @@
         android:layout_marginStart="53dp"
         android:layout_marginTop="64dp"
         android:ems="10"
-        android:hint="Bastian Paz Prueba"
+        android:hint="Bastian Paz"
         android:inputType="textPersonName"
         android:textSize="22sp" />
 </RelativeLayout>
