@@ -39,18 +39,17 @@
         android:layout_alignParentStart="true" />
 
     <EditText
+        android:id="@+id/txtPatente"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="textPersonName"
-        android:ems="10"
-        android:id="@+id/txtPatente"
-        android:hint="FGKS-30"
-        android:layout_marginTop="64dp"
-
-        android:layout_below="@+id/textView"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
         android:layout_marginLeft="53dp"
+
         android:layout_marginStart="53dp"
+        android:layout_marginTop="64dp"
+        android:ems="10"
+        android:hint="Bastian Paz Prueba"
+        android:inputType="textPersonName"
         android:textSize="22sp" />
 </RelativeLayout>
